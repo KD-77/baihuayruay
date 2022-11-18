@@ -1,18 +1,15 @@
 {
   "name": "KD-77",
-  "main": "./lib/KD-77",
+  "theme": "KD-77",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "KD-77 test",
   "keywords": [
+    "หวย",
+    "ทำนายฝัน"
   ],
-  "activationCommands": {
-    "atom-workspace": "baihuayruay10:toggle"
-  },
-  "repository": "https://github.com/atom/baihuayruay10",
+  "repository": "https://github.com/KD-77/baihuayruay",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
   }
 }
