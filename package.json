@@ -1,15 +1,18 @@
 {
-  "name": "SEOForkid",
-  "theme": "เว็บไซต์ทำนายฝัน ดูดวง ใบ้หวย ให้เลขเด็ด อันดับหนึ่งของไทย",
-  "version": "0.10.9",
-  "description": "เว็บไซต์ทำนายฝัน ดูดวง ใบ้หวย ให้เลขเด็ด อันดับหนึ่งของไทย",
+  "name": "KD-77",
+  "main": "./lib/KD-77",
+  "version": "0.0.1",
+  "description": "A short description of your package",
   "keywords": [
-    "ทำนายฝัน",
-    "หวย"
   ],
-  "repository": "https://github.com/seoforkid/เว็บไซต์ทำนายฝัน ดูดวง ใบ้หวย ให้เลขเด็ด อันดับหนึ่งของไทย",
+  "activationCommands": {
+    "atom-workspace": "baihuayruay10:toggle"
+  },
+  "repository": "https://github.com/atom/baihuayruay10",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
   }
 }
